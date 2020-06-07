@@ -6,3 +6,5 @@
 宁可少卖 绝不超卖 结合业务场景
 
 redis rocketMQ 负载均衡
+
+Jmeter压测
